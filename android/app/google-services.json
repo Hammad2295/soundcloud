@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "823716382268",
+    "project_id": "first-app-26fd8",
+    "storage_bucket": "first-app-26fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823716382268:android:02e9fd084133b86278a539",
+        "android_client_info": {
+          "package_name": "com.example.listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823716382268-vdimps69j5pg8ettk8trl2b16sb46bdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcPSS8w2OaSvX6ncpoUioaqgwv2U3kdMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823716382268-vdimps69j5pg8ettk8trl2b16sb46bdh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823716382268-1eg4sjr8uht0n7pb5en2ql93outb21vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasetest.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823716382268:android:8d8990de13526b6678a539",
+        "android_client_info": {
+          "package_name": "com.example.souncloud_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823716382268-vdimps69j5pg8ettk8trl2b16sb46bdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcPSS8w2OaSvX6ncpoUioaqgwv2U3kdMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823716382268-vdimps69j5pg8ettk8trl2b16sb46bdh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823716382268-1eg4sjr8uht0n7pb5en2ql93outb21vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasetest.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823716382268:android:62011d681b35497f78a539",
+        "android_client_info": {
+          "package_name": "com.example.soundcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823716382268-vdimps69j5pg8ettk8trl2b16sb46bdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcPSS8w2OaSvX6ncpoUioaqgwv2U3kdMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823716382268-vdimps69j5pg8ettk8trl2b16sb46bdh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "823716382268-1eg4sjr8uht0n7pb5en2ql93outb21vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasetest.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

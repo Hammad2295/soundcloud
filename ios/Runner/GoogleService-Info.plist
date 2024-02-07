@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>823716382268-dsor30gc7k9tmjc68or4lo7e5bkajd9j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.823716382268-dsor30gc7k9tmjc68or4lo7e5bkajd9j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwFiebmpDvzRUGGO6SYJmdV8-xAgfFzno</string>
+	<key>GCM_SENDER_ID</key>
+	<string>823716382268</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.souncloudClone</string>
+	<key>PROJECT_ID</key>
+	<string>first-app-26fd8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>first-app-26fd8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:823716382268:ios:5c8121cdd2556bbc78a539</string>
+</dict>
+</plist>
